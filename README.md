@@ -1,6 +1,6 @@
 # Cadastro de Endereço por CEP
 
-Projeto web que realiza o **preenchimento automático de endereço a partir do CEP**, utilizando a API ViaCEP. 
+Atividade para a cadeira de *Programação Para a Web 2* que realiza o **preenchimento automático de endereço a partir do CEP**, utilizando a API ViaCEP. 
 
 ## Ferramentas Utilizadas
 
